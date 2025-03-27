@@ -49,9 +49,3 @@ _Welcome to "Communicate using Markdown"! :wave:_
 1. At the bottom of the page, type a short, meaningful commit message that describes the change you made to the file.
 1. Click **Commit changes**.
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-
-### Additional Information
-
-Headers are an essential part of Markdown, as they help organize content and make it more readable. By using different header levels, you can create a clear hierarchy of sections and subsections in your Markdown files. This makes it easier for readers to navigate and understand the content.
-
-For more information on using headers in Markdown, refer to the [GitHub Docs](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings).
