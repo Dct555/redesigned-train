@@ -28,3 +28,13 @@ Here's a recap of all the tasks you've accomplished in your repository:
 - [Take another GitHub Skills course](https://github.com/skills).
 - [Read the GitHub Getting Started docs](https://docs.github.com/get-started).
 - To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
+
+### Additional Information
+
+In this course, you have learned how to use Markdown to format text, add images, create lists, and more. By mastering these skills, you can effectively communicate and collaborate on GitHub. Here are some additional resources to help you continue your learning journey:
+
+- [GitHub Docs: Writing on GitHub](https://docs.github.com/en/github/writing-on-github)
+- [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+- [GitHub Pages](https://pages.github.com/)
+
+Thank you for taking this course, and happy coding!

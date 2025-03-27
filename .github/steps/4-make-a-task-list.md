@@ -42,3 +42,25 @@ GitHub Actions went ahead and made a branch for you. So you'll need to add to th
 1. Use the **Preview** tab to check your Markdown formatting.
 1. Commit the changes to the file.
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+
+### Additional Information
+
+Task lists can be used to track progress on various tasks and can be included in issues, pull requests, and comments. To create a task list, use the syntax shown above. You can also nest task lists by indenting the list items.
+
+#### Example
+
+```md
+- [ ] Task 1
+  - [ ] Subtask 1.1
+  - [ ] Subtask 1.2
+- [x] Task 2
+```
+
+#### How it looks
+
+- [ ] Task 1
+  - [ ] Subtask 1.1
+  - [ ] Subtask 1.2
+- [x] Task 2
+
+For more information on creating task lists in Markdown, refer to the [GitHub Docs](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#task-lists).
